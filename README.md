@@ -1,6 +1,6 @@
 # WebSolution </br>
 # QUANTUMHUNTS-Internship-Task </br>
-This repository contains the task given by the Midas Lab at IIITD. </br>
+This repository contains the task given by the Quantumhunts for their internship Program "CAMPUS2CORPORATE". </br>
 
 This task consists of the single page website. </br>
 # Task 5:
@@ -11,3 +11,8 @@ This task consists of the single page website. </br>
 4. Move the final code to your github account and put a link to the Heroku page where the changes can be tested.
 5. Weightage would be given for design aethetics and originality for this.
 6. Create a readme file and add good documentation on how to run the code
+
+# Demo Link: https://quantumhuntstask.herokuapp.com/ 
+     
+
+# Project Description
