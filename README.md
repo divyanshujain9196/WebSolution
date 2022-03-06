@@ -16,3 +16,14 @@ This task consists of the single page website. </br>
      
 
 # Project Description
+1. This is a single page website for the brand name "WebSolution" 
+2. Build using HTMl,CSS,JAVASCRIPT,BOOTSTRAP and Jquery
+ 
+# How to Run the project
+1. Download the code from this repository.
+2. Extract all the files on your local machine.
+3. Now run the index.html file.
+4. Make sure your browser should be javascript enable.
+5. If you want to modify it than install any html editor and change it accordingly.
+ 
+
